@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-### Hi there 👋
+### Hi I'm Derrick Momanyi 👋
 </div>
 
 <div align="center">
@@ -9,13 +9,13 @@
 
 # About Me:
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi, Kenya.
-🔭 I’m currently working on my Skills In Python.
-<br>🌱 I’m currently learning more about FullStack Web Development.
-<br>🔭 I’m currently looking to Collaborate on Projects.
-<br> :zap: In my free time, I solve problems on Codewars
-<br>💬 Ask me about React, Javascript and Ruby.
-<br>📫 How to reach me: [Email](hellomomanyi@gmail.com), [LinkedIn](https://www.linkedin.com/in/derrick-momanyi-77a479269/).
-<br>⚡ Fun fact:  Don’t deploy on Friday.
+- 🔭 I’m currently working on my Skills In Python.
+- 🌱 I’m currently learning more about FullStack Web Development.
+- 🔭 I’m currently looking to Collaborate on Projects.
+-  :zap: In my free time, I solve problems on Codewars
+- 💬 Ask me about React, Javascript and Ruby.
+- 📫 How to reach me: [Email](hellomomanyi@gmail.com), [LinkedIn](https://www.linkedin.com/in/derrick-momanyi-77a479269/).
+- ⚡ Fun fact:  Don’t deploy on Friday.
 
 
 
@@ -33,5 +33,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Rails" alt="Rails" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 
+### :fire: My Stats :
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=derrickmomanyi&show_icons=true&locale=en" alt="derrickmomanyi" /></p>
 
