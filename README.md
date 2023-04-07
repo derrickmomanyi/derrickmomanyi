@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-### Hi I'm Derrick Momanyi 👋
+### Hi, I'm Derrick Momanyi 👋
 </div>
 
 <div align="center">
