@@ -14,7 +14,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m currently looking to Collaborate on Projects.
 -  :zap: In my free time, I solve problems on Codewars
 - 💬 Ask me about React, Javascript and Ruby.
-- 📫 How to reach me: [Email](hellomomanyi@gmail.com), [LinkedIn](https://www.linkedin.com/in/derrick-momanyi-77a479269/).
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Derrick-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/derrick-momanyi-77a479269/)
 - ⚡ Fun fact:  Don’t deploy on Friday.
 
 
