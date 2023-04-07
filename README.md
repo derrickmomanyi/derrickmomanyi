@@ -35,5 +35,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=derrickmomanyi&show_icons=true&locale=en" alt="derrickmomanyi" /></p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derrickmomanyi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
