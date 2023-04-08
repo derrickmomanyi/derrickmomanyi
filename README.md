@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://www.thegatewaydigital.com/wp-content/uploads/2020/07/Services_Quality_Engineering_End-End-Testing.webp" width="600" height="300"/>
+  <img src="https://www.thegatewaydigital.com/wp-content/uploads/2020/07/Services_Quality_Engineering_End-End-Testing.webp" width="630" height="525"/>
 </div>
 
 # About Me:
