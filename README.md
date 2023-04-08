@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://codutech.com/static/javascript-frameworks-amico-4421ef32bbfa046facb08aef2067dae2.svg" width="600" height="300"/>
+  <img src="[https://codutech.com/static/javascript-frameworks-amico-4421ef32bbfa046facb08aef2067dae2.svg](https://www.thegatewaydigital.com/wp-content/uploads/2020/07/Services_Quality_Engineering_End-End-Testing.webp)" width="600" height="300"/>
 </div>
 
 # About Me:
