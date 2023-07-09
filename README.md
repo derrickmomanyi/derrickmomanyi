@@ -1,19 +1,19 @@
 <div id="header" align="center">
 
-### Hi, I'm Derrick Momanyi 👋
+### Hi I'm Derrick Momanyi 👋
 </div>
 
 <div align="center">
-  <img src="https://www.thegatewaydigital.com/wp-content/uploads/2020/07/Services_Quality_Engineering_End-End-Testing.webp" width="630" height="525"/>
+  <img src="https://codutech.com/static/javascript-frameworks-amico-4421ef32bbfa046facb08aef2067dae2.svg" width="600" height="300"/>
 </div>
 
 # About Me:
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi, Kenya.
-- 🔭 I’m currently working on my Skills In Python.
-- 🌱 I’m currently learning more about FullStack Web Development.
+- 🔭 I’m currently working on my Skills In PHP Laravel and VUE JS.
+- 🌱 I’m currently learning more about DevOps.
 - 🔭 I’m currently looking to Collaborate on Projects.
 -  :zap: In my free time, I solve problems on Codewars
-- 💬 Ask me about React, Javascript and Ruby.
+- 💬 Ask me about React, Javascript, Vue, Laravel and Ruby.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Derrick-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/derrick-momanyi-77a479269/)
 - ⚡ Fun fact:  Don’t deploy on Friday.
 
@@ -32,6 +32,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Rails" alt="Rails" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-line-wordmark.svg" title="Composer" alt="Composer" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-line-wordmark.svg" title="VUEJS" alt="VUEJS" width="40" height="40"/>&nbsp;
+
+
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=derrickmomanyi&theme=dark&background=000000)](https://git.io/streak-stats)
